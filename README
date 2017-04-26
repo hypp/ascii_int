@@ -1,0 +1,4 @@
+Verilog HDL modules for increasing a single byte ASCII counter 0x30 to 0x39
+and chaining them together to create a multibyte counter.
+
+Use at your own risk!
